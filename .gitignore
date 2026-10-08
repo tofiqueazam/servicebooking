@@ -1,0 +1,4 @@
+servicebooking/.m2repo/
+servicebooking/target/
+service-booking-frontend/node_modules/
+.env
